@@ -67,17 +67,20 @@ const Bio = () => {
     <h4> 
       <br>
       </br>
-      Hi! My name is darkdarcool and I am a 13 yr old coder. I live in the Silicon Valley and I am a java and cpp dev. I am trying to learn web dev, and it has been going well. In fact, this website was created entirly out of react.js! 
+        Hi! My name is darkdarcool and I am a 13 yr old coder. I live in the Silicon Valley and I am a java and cpp dev. I am trying to learn web dev, and it has been going well. In fact, this website was created entirly out of react.js! 
       </h4>
       <h4>
         I like to keep my social media mine, as in my IRL self, so you can't contact me. That slo goes for email. I am thinking about joining the repl.it discord, (but I don't want to have to make a new account, and if I don't I would use my IRL account, do you see my problem here??), and maybe I'll join more organizations in github
       </h4>
       <br>
       </br>
-      <h4>
-        I am already a mod on the github repl.it organization. So you can ping me over there too
-      </h4>
-
+    </div>
+  )
+}
+const GitBio = () => {
+  return (
+    <div>
+    
     </div>
   )
 }
