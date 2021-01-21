@@ -1,3 +1,3 @@
-# **Dark React!**
+# **Mod Darkdarcool**
 
-Dark React was made in react.js and has made lives easier. The passing build is in Version 1.0.2
+This profile was made in react.js and is made for my user. It contains info about me and what I do and know.
